@@ -9,7 +9,6 @@ public class JyankenExec_Chapter26 {
 		String myChoice   = jyanken.getMyChoice();
 		String yourChoice = jyanken.getRandom();
 		jyanken.playGame( myChoice , yourChoice);
-		
 
 	}
 
